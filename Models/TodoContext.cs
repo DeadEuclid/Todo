@@ -1,5 +1,6 @@
 ﻿namespace Models
 {
+
     using System.Data.Entity;
 
     public class TodoContext : DbContext
